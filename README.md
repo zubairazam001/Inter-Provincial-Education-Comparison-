@@ -6,3 +6,8 @@ Dataset has presence of students from Provinces: Punjab, Sindh, Balochistan, Khy
 In this project I will try to highlight provinces having high drop-out ratio from the universities on basis of students' poor performance or low quality education background.
 I will also highlight provinces that have remarkable academic performance on the basis of good quality educational background.
 I will conclude inter provincial quality education comparison on the basis of student performance.
+# Conclusion:
+    Quality of Education in Federal Capital is much better as compared to other provinces
+    Punjab stands 2nd in Quality Education
+    AJK and KPK are mediocre
+    Balochistan, Sindh, FATA and GB is very low w.r.t Quality Education
