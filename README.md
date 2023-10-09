@@ -14,3 +14,5 @@ I will conclude inter provincial quality education comparison on the basis of st
 ✌    AJK and KPK are mediocre
 
 🤦‍♂️   Balochistan, Sindh, FATA and GB is very low w.r.t Quality Education
+
+For Additional Information, please study "Inter Provincial Quality Education Comparison in Pakistan.pdf"
