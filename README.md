@@ -8,6 +8,9 @@ I will also highlight provinces that have remarkable academic performance on the
 I will conclude inter provincial quality education comparison on the basis of student performance.
 # Conclusion:
 👏   Quality of Education in Federal Capital is much better as compared to other provinces
+
 👍   Punjab stands 2nd in Quality Education
+
 ✌    AJK and KPK are mediocre
+
 🤦‍♂️   Balochistan, Sindh, FATA and GB is very low w.r.t Quality Education
