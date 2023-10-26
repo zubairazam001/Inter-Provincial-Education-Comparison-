@@ -11,8 +11,8 @@ I will conclude inter provincial quality education comparison on the basis of st
 
 👍   Punjab stands 2nd in Quality Education
 
-✌    AJK and KPK are mediocre
+✌    AJK and KPK are mediocre provinces
 
-🤦‍♂️   Balochistan, Sindh, FATA and GB is very low w.r.t Quality Education
+🤦‍♂️   Balochistan, Sindh, FATA and GB are very low w.r.t Quality Education
 
 For Additional Information, please study "Inter Provincial Quality Education Comparison in Pakistan.pdf"
